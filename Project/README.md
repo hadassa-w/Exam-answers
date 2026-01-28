@@ -98,7 +98,7 @@
 
 ## קישור ל-GitHub
 
-[GitHub Repository - Person Certification Generator](https://github.com/username/PersonCertificationGenerator)
+[GitHub Repository - Person Certification Generator](https://github.com/hadassa-w/Exam-answers)
 
 ---
 
