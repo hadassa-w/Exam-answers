@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76619CFD-BC22-4669-9A22-1C1C7D76E90E}|Project\\Project.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\project\\project\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{76619CFD-BC22-4669-9A22-1C1C7D76E90E}|Project\\Project.csproj|solutionrelative:project\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76619CFD-BC22-4669-9A22-1C1C7D76E90E}|Project\\Project.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76619CFD-BC22-4669-9A22-1C1C7D76E90E}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76619CFD-BC22-4669-9A22-1C1C7D76E90E}|Project\\Project.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\project\\project\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76619CFD-BC22-4669-9A22-1C1C7D76E90E}|Project\\Project.csproj|solutionrelative:project\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\Project\\Project\\Program.cs",
-              "RelativeDocumentMoniker": "Project\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\Project\\Project\\Program.cs",
-              "RelativeToolTip": "Project\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T13:53:05.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\Project\\Project\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Project\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\Project\\Project\\Models\\Person.cs",
-              "RelativeToolTip": "Project\\Models\\Person.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T13:49:17.023Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,7 +24,7 @@
               "RelativeDocumentMoniker": "Project\\README.md",
               "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D2 \u05EA\u05E9\u05E4\u05D5\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05D7\u05D5\u05D2\u05E8\u05D9 \u05E6\u05D9\u05D5\u05EA \u05EA\u05E4\u05E2\u05D5\u05DC \u05D5\u05D1\u05E7\u05E8\u05D4 \u05D1\u05E2\u05DE\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\Project\\Project\\README.md",
               "RelativeToolTip": "Project\\README.md",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAkwG0AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwGQAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-01-28T09:19:27.654Z",
               "EditorCaption": ""
